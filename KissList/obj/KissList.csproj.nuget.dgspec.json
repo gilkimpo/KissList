@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kbx10\\source\\repos\\KissList\\KissList\\KissList.csproj": {}
+    "C:\\Users\\gilki\\source\\repos\\KissList\\KissList\\KissList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kbx10\\source\\repos\\KissList\\KissList\\KissList.csproj": {
+    "C:\\Users\\gilki\\source\\repos\\KissList\\KissList\\KissList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbx10\\source\\repos\\KissList\\KissList\\KissList.csproj",
+        "projectUniqueName": "C:\\Users\\gilki\\source\\repos\\KissList\\KissList\\KissList.csproj",
         "projectName": "KissList",
-        "projectPath": "C:\\Users\\kbx10\\source\\repos\\KissList\\KissList\\KissList.csproj",
-        "packagesPath": "C:\\Users\\kbx10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kbx10\\source\\repos\\KissList\\KissList\\obj\\",
+        "projectPath": "C:\\Users\\gilki\\source\\repos\\KissList\\KissList\\KissList.csproj",
+        "packagesPath": "C:\\Users\\gilki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gilki\\source\\repos\\KissList\\KissList\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kbx10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gilki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,6 +60,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
@@ -77,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
